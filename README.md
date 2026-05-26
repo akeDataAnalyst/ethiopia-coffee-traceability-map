@@ -2,6 +2,7 @@
 [![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://ethiopia-coffee-traceability-map-tpama7luxbz4sfw52gzzqd.streamlit.app/)
 
 Interactive GIS Dashboard for Specialty Coffee Supply Chain
+
 ---
 
 ## Project Description
